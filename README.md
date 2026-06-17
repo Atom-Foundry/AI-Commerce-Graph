@@ -1,4 +1,4 @@
-![AI Commerce Graph](Ai-commerce-graph.png)
+![AI Commerce Graph](AI-commerce-graph.png)
 
 # AI Commerce Graph™
 
