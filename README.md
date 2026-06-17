@@ -64,6 +64,42 @@ AI systems optimize for understanding and confidence.
 
 The businesses most likely to be recommended are those with stronger relationships across the graph.
 
+## The Recommendation Flow
+
+Discovery
+
+↓
+
+Understanding
+
+↓
+
+Trust
+
+↓
+
+Recommendation
+
+↓
+
+Decision Confidence
+
+↓
+
+Purchase
+
+The AI Commerce Graph™ provides a model for understanding how entities move through this recommendation flow.
+
+## Related Frameworks
+
+- AI Readability™
+- AI Understanding™
+- AI Trust™
+- Recommendation Intelligence™
+- Decision Confidence™
+
+Together these frameworks form the AI Commerce Intelligence™ stack.
+
 ## Developed By
 
 Atom Foundry
