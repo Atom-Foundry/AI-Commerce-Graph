@@ -98,6 +98,16 @@ The AI Commerce Graph™ provides a model for understanding how entities move th
 - Recommendation Intelligence™
 - Decision Confidence™
 
+## Related Frameworks
+
+- [AI Readability™](https://github.com/Atom-Foundry/AI-Readability)
+- [AI Understanding™](https://github.com/Atom-Foundry/AI-Understanding)
+- [AI Trust™](https://github.com/Atom-Foundry/AI-Trust)
+- [AI Recommendation Intelligence™](https://github.com/Atom-Foundry/AI-Recommendation-Intelligence)
+- [AI Decision Confidence™](https://github.com/Atom-Foundry/AI-Decision-Confidence)
+
+Together these frameworks form the AI Commerce Intelligence™ stack.
+
 Together these frameworks form the AI Commerce Intelligence™ stack.
 
 ## Developed By
