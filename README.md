@@ -92,14 +92,6 @@ The AI Commerce Graph™ provides a model for understanding how entities move th
 
 ## Related Frameworks
 
-- AI Readability™
-- AI Understanding™
-- AI Trust™
-- Recommendation Intelligence™
-- Decision Confidence™
-
-## Related Frameworks
-
 - [AI Readability™](https://github.com/Atom-Foundry/AI-Readability)
 - [AI Understanding™](https://github.com/Atom-Foundry/AI-Understanding)
 - [AI Trust™](https://github.com/Atom-Foundry/AI-Trust)
