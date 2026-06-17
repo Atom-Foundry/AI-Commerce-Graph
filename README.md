@@ -10,6 +10,16 @@ While search engines built knowledge graphs, AI systems are building recommendat
 
 The AI Commerce Graph™ is an attempt to model the relationships that influence AI recommendations across commerce.
 
+## The Problem
+
+Search engines built Knowledge Graphs to understand facts.
+
+AI systems are evolving beyond information retrieval. They are increasingly responsible for evaluating, comparing, recommending, and eventually purchasing on behalf of users.
+
+Yet there is no widely accepted framework for understanding how AI systems connect businesses, products, trust signals, citations, mentions, and recommendations.
+
+The AI Commerce Graph™ is an attempt to model this emerging recommendation infrastructure.
+
 ## Core Entities
 
 - Businesses
